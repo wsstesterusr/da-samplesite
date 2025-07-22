@@ -261,4 +261,9 @@ main .section.highlight {
   background-color: var(--light-color);
   margin: 0;
   padding: 40px 0;
+},
+main .section.dar {
+  background-color: black;
+  margin: 0;
+  padding: 40px 0;
 }
