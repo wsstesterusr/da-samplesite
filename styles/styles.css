@@ -264,6 +264,6 @@ main .section.highlight {
 }
 
 main .section.dark {
-    background-color: black;
+    background-color: var(--dark-color);
     color: whitesmoke;
 }
