@@ -263,7 +263,7 @@ main .section.highlight {
   padding: 40px 0;
 }
 
-.section.dark {
+main .section.dark {
     background-color: black;
     color: whitesmoke;
 }
